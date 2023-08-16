@@ -1,0 +1,108 @@
+/* }
+.span2{ 
+
+    font-size: 25px;
+    color: grey;
+  
+}
+.span3{
+    color: grey;
+    font-size: 11px;
+}
+.div2{
+    color: black;
+    margin-left: 50px;
+    font-size: 11px;
+
+}
+.div4{
+    margin-left: 50px;
+    padding-top: 150px;
+}
+input{
+    width: 25%;
+}
+ button{
+    
+    background-color: black;
+    color: aliceblue;
+    box-shadow: inset;
+    
+}
+p{
+    font-size: 10px;
+    color: black;
+}
+.font{
+    font-size: 9px;
+    padding-top: 5px;
+}
+.div5{
+    margin-left: 50px;
+    padding-top: 150px;
+
+}
+.col{
+    color: black;
+}
+
+
+.color{
+color: blue;    
+}
+.box{
+    background-color: rgb(211, 209, 209);
+    height:600px;
+    width: 879px;
+} */ 
+
+
+.para{
+    font-size:12px;
+    margin-top: 40px;
+    
+}
+.Village{
+    font-size: smaller;
+ 
+
+}
+.o{
+    font-size: 30px;
+
+}
+button{
+    background-color: black;
+    color: aliceblue;
+}
+.div1{
+    margin-top: 150px;
+    margin-left: 45px;
+   
+
+}
+.div{
+    margin-left: 45px;
+    margin-top: 20px;
+
+}
+.note{
+    margin-top: 10px;
+}
+.make{
+    font-size: 11px;
+}
+.all{
+   font-size:11px;
+}
+.the{
+    margin-top: 150px;
+}
+.b{
+    background-color: rgb(231, 234, 237);
+}
+.m{
+    
+        background-color: rgb(250, 252, 255);
+
+}

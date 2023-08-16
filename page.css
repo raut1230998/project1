@@ -1,0 +1,74 @@
+
+
+.div1{
+    
+    background-color:rgb(227, 222, 222);
+    height:600px;
+    width:933px;
+    margin-left: 90px;
+}
+.span1{
+    color: black;
+    padding-top: 40px;
+    margin-left: 50px;
+    font-size: 25px;
+   
+    
+}
+.span2{ 
+
+    font-size: 25px;
+    color: grey;
+  
+}
+.span3{
+    color: grey;
+    font-size: 11px;
+}
+.div2{
+    color: black;
+    margin-left: 50px;
+    font-size: 11px;
+
+}
+.div4{
+    margin-left: 50px;
+    padding-top: 150px;
+}
+.input{
+   width: 30px;
+   
+}
+ button{
+    
+    background-color: black;
+    color: aliceblue;
+    box-shadow: inset;
+    
+}
+p{
+    font-size: 10px;
+    color: black;
+}
+.font{
+    font-size: 9px;
+    padding-top: 5px;
+}
+.div5{
+    margin-left: 50px;
+    padding-top: 150px;
+
+}
+.col{
+    color: black;
+}
+
+
+.color{
+    color: grey;
+}
+.box{
+    background-color: rgb(211, 209, 209);
+    height:600px;
+    width: 933px;
+}
